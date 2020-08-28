@@ -6,7 +6,7 @@ In this project, I designed and developed a visualization dashboard using ReactJ
 
 Used the [N2YO Rest API](https://www.n2yo.com/api) as the data source of the application.
 
-![Screenshot](https://github.com/viennazhang/starlink-tracker/blob/master/starlink-screenshot.jpg?raw=true)
+![Screenshot](https://github.com/ViennaZhang/Starlink-Tracker/blob/master/Starlink-Screenshot.png?raw=true)
 
 ## How To Run Locally
 
